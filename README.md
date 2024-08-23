@@ -1,6 +1,6 @@
 # LibrePhotos Unauthenticated Arbitrary File Upload Vulnerability + Path Traversal Proof of Concept
 
-This repository contains a Proof of Concept (PoC) script demonstrating an arbitrary file upload vulnerability in LibrePhotos. **This tool is for educational and authorized testing purposes only.**
+This repository contains a Proof of Concept (PoC) script demonstrating an [arbitrary file upload vulnerability in LibrePhotos](https://zeropath.com/blog/librephotos-arbitrary-file-upload-vulnerability). **This tool is for educational and authorized testing purposes only.**
 
 ## Usage
 
